@@ -1,11 +1,15 @@
 import javax.swing.JFrame;
 
-public class TetrisJuego extends JFrame {
-    TetrisJuego() {
-        setTitle("Tetris clásico");
+public class JuegoTetris extends JFrame {
+
+    public JuegoTetris() {
+        setTitle("Tetris Clásico");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
-        add(new GamePanel());
+
+        TableroPanel panel = new TableroPanel();
+        add(panel);
+
         pack();
         setLocationRelativeTo(null);
         setVisible(true);
