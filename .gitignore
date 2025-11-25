@@ -1,0 +1,15 @@
+# --- Archivos de IDE y Sistema (NO SUBIR) ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Archivos generados/compilados (NO SUBIR) ---
+
+*.exe
+bin/
+obj/
+build/
+dist/
+node_modules/
