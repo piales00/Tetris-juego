@@ -1,18 +1,31 @@
-## Getting Started
+# TETRIS – Proyecto Final
+# Taller de Programación – Universidad Tecnológica del Perú (UTP)
 
-piero perez estuvo aqui 
+Este proyecto consiste en la implementación del juego Tetris utilizando Java. 
+El objetivo es aplicar los conceptos aprendidos en el curso Taller de Programación, 
+incluyendo vectores, matrices y manejo de bucles.
 
-## Folder Structure
+## Integrantes del equipo:
+- Jhair Eros Rivera Salvador
+- Piero Alessandro Pérez Izquierdo
+- Huanuco Jiménez Luis Alberto
+- Contreras Mayorga Marcelo Fabián
+- Mathias Gianpaul Cuba Barbarán
 
-The workspace contains two folders by default, where:
+## Información general:
+- Universidad Tecnológica del Perú (UTP)
+- Curso: Taller de Programación
+- Proyecto Final
+- Lenguaje utilizado: Java
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Contenido del proyecto:
+El proyecto incluye la lógica del juego Tetris, que abarca:
+- Generación de piezas
+- Movimiento y rotación
+- Colisiones
+- Eliminación de líneas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Ejecución:
+Para ejecutar el proyecto, abrir la carpeta en un IDE compatible con Java 
+(IntelliJ, VS Code, NetBeans, Eclipse) y ejecutar la clase principal App.java.
