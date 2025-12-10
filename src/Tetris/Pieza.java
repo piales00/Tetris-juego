@@ -1,3 +1,4 @@
+package Tetris;
 public class Pieza {
     public int[][] forma;
 

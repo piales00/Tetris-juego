@@ -1,3 +1,4 @@
+package Tetris;
 import javax.swing.JFrame;
 
 public class JuegoTetris extends JFrame {
